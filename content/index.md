@@ -1,9 +1,9 @@
 ---
-title: HDSNK Quartz Garden
+title: Welcome to My Second Mind Garden
 ---
 This site was made with Quartz [^1] as a public digital garden which I hope can be beneficial to humanity.
 
-Go to the [[blog]] section for daily, weekly, monthly, quarterly and yearly entries.
+[[2024-02-10]] was the first journal entry.
 
 Check out [[Youtube - How to publish your notes for free with Quartz]] on how to do this.
 
