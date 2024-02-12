@@ -1,6 +1,8 @@
 ---
 title: Welcome to My Second Mind Garden
 ---
+# بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ 
+
 This site was made with Quartz [^1] as a public digital garden which I hope can be beneficial to humanity.
 
 [[2024-02-10]] was the first journal entry.
