@@ -2,7 +2,7 @@
 title: <% tp.file.title %>
 description: 
 aliases:
-  - <% tp.date.now("dddd DD MMMM") %>
+  - <% tp.date.now("dddd DD MMMM YYYY") %>
 tags:
   - journal/daily
 draft: true
